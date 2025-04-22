@@ -12,7 +12,7 @@ I love building powerful web and mobile applications, experimenting with microco
 ## 🛠️ Skills & Tech Stack
 
 - 💻 Languages: `Python`, `JavaScript`,`TypeScript`,`Java`, `C++`
-- 🌐 Web: `Emberjs`, `Reactjs`, `Nextjs`
+- 🌐 Web: `Emberjs`, `Angular`, `Reactjs`, `Nextjs`
 - ⚙️ Backend: `FastAPI`, `Spring Framework`, `NestJs`, `Tornado`
 - 📱 Mobile: `React Native`, `Apache Cordova`
 - 🗃️ Databases:  `PostgreSQL`, `MySQL`,`RethinkDB`, `MongoDB`
